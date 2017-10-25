@@ -1,0 +1,16 @@
+label {
+    color: powderblue;
+    text-align: center;
+    font-family: Serif;
+    font-size: 15px;
+}
+
+body {
+    text-align: center;
+}
+#headerText {
+    color: aquamarine;
+}
+#output{
+    color: blueviolet;
+}
